@@ -89,11 +89,3 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-
-## Авторы
-
-- [Ваше имя]
-
-## Лицензия
-
-MIT License
